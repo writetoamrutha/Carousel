@@ -9,7 +9,7 @@ Time spent: `<Number of hours spent>`
 ### Required User Stories
 
 1. Landing Screen
-  - [ ] Static photo tiles on the initial screen.
+  - [!] Static photo tiles on the initial screen.
   - [ ] User can scroll to reveal sign in buttons.
 1. Sign In
   - [ ] Tapping on email/password reveals the keyboard and shifts the scroll view and Sign In button up.
@@ -39,9 +39,6 @@ Time spent: `<Number of hours spent>`
 
 
 
-#### The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
